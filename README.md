@@ -43,7 +43,7 @@ Arewa Docconnect is a full-stack telemedicine application that allows patients a
 ### Backend Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/arewa-docconnect.git
+   git clone https://github.com/HameedYusuf/arewa-docconnect.git
    ```
 2. **Navigate to the backend folder**:
    ```bash
